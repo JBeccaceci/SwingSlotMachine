@@ -1,0 +1,2 @@
+# SwingSlotMachine
+Slot maquine implementation
